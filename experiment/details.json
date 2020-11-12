@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "WAP that checks whether the two numbers entered by the user are equal or not.",     
+			"Lab": "Programming for Problem Solving",               
+			"Discipline": "Computer Science & Engineering",				 
+			"Technology": "C Language"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Alok Kumar Srivastava",         
+      "Institute": "Buddha Institute of Technology GIDA, Gorakhpur",         
+      "InstituteAcronym": "BIT GIDA Gorakhpur"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Ankit Srivastava",             
+      "Institute": "Buddha Institute of Technology, Gorakhpur",               
+			"InstituteAcronym": "BIT GIDA Gorakhpur"         
+       },
+
+       {       
+			"Contributer": "Amar Singh",              
+      "Institute": "Buddha Institute of Technology, Gorakhpur",               
+			"InstituteAcronym": "BIT GIDA Gorakhpur"         
+       },
+
+       {       
+			"Contributer": "Amreesh Singh",             
+      "Institute": "Buddha Institute of Technology, Gorakhpur",               
+			"InstituteAcronym": "BIT GIDA Gorakhpur"         
+       },
+
+       {       
+			"Contributer": "Vipin Bahaduar Nishad",              
+      "Institute": "Buddha Institute of Technology, Gorakhpur",               
+			"InstituteAcronym": "BIT GIDA Gorakhpur"         
+       }
+   ]
+
+}
